@@ -1,0 +1,105 @@
+{
+  "name" : "Pego do Inferno Waterfall",
+  "city" : "Tavira",
+  "description" : "An emerald-colored lagoon with mineral rich waters of the river that has two names: Gilão e/ou Séquia",
+  "tips" : "Take with you: swim shorts & sunscreen. Great place for picnincs!",
+	"geometry": { "type": "point", "coordinates": [37.15, 7.69] }
+},
+{
+  "name" : "Passadiços do Paiva",
+  "city" : "Aveiro",
+  "description" : "Your winding staircase to a nature reserve to cry out to the skies.",
+  "tips" : "Take with you: comfortable shoes, sunscreen and water. Atenção: não vendemos bilhetes para os passadiços do Paiva!",
+	"geometry": { "type": "point", "coordinates": [40.59, 8.12] }
+},
+{
+  "name" : "Cabo Espichel",
+  "city" : "Setúbal",
+  "description" : "A corner of the world cut by the raw nature of time and elements.",
+  "tips" : "Just 1 hour far from Lisbon!",
+	"geometry": { "type": "point", "coordinates": [37.15, 7.69] }
+},
+{
+  "name" : "Peneda-Gerês National Park",
+  "city" : "Vilar da Veiga",
+  "description" : "Portugal's largest national park (in fact, its only park with a national status) has quite a few mountains: those of Peneda, Soajo, Amarela, and Gerês. These mountains are home to rivers, forests, and rural villages that have kept their harmonious way of living for centuries!",
+  "tips" : "Take a hike along this roaring river, or go straight over to the Cascata do Arado.",
+	"geometry": { "type": "point", "coordinates": [41.72, -8.12] }
+},
+{
+  "name" : "Torrão do Lameiro Beach",
+  "city" : "Aveiro",
+  "description" : "Although it is now a little better known, this beach remains an ideal place for those looking for a quiet place.",
+  "tips" : "Awesome for camping!",
+	"geometry": { "type": "point", "coordinates": [40.82, -8.66] }
+},
+{
+  "name" : "Samoqueira Beach, Porto Covo",
+  "city" : "Sines",
+  "description" : "Porto Covo is one of the most beautiful villages of our Alentejo, full of tradition and history.",
+  "tips" : "Awesome for camping!",
+	"geometry": { "type": "point", "coordinates": [37.86, -8.79] }
+},
+{
+  "name" : "Serra da Estrela",
+  "city" : "Unhais da Serra",
+  "description" : "The highest mountain in the country,",
+  "tips" : "You definetely should try 'Queijo da Serra'!",
+	"geometry": { "type": "point", "coordinates": [40.32, -7.62] }
+},
+{
+  "name" : "Grutas de Mira de Aire",
+  "city" : "Leiria",
+  "description" : "the largest caves in Portugal, with 11km of extension.",
+  "tips" : "Be careful! :)",
+	"geometry": { "type": "point", "coordinates": [39.54, -8.7] }
+},
+{
+  "name" : "Almeirim",
+  "city" : "Almeirim",
+  "description" : "Santarem district",
+  "tips" : "try the local famou vegetable soup.",
+	"geometry": { "type": "point", "coordinates": [39.14, -8.58] }
+},
+{
+  "name" : "Berlengas & Peniche",
+  "city" : "Peniche",
+  "description" : "visit a small paradisiac island right next to the Portuguese coast",
+  "tips" : "Leave your van in Peniche and take a ferry to one of Portugal’s natural wonders.",
+	"geometry": { "type": "point", "coordinates": [39.35, -9.39] }
+},
+{
+  "name" : "Algarve (Faro)",
+  "city" : "Faro",
+  "description" : "the nº1 choice of tourists in Portugal.",
+  "tips" : "Great beaches, great food, always great weather... Enjoy Algarve!",
+	"geometry": { "type": "point", "coordinates": [37.01, -7.93] }
+},
+{
+  "name" : "Alentejo (Beja)",
+  "city" : "Beja",
+  "description" : "the nº1 food choice of tourists in Portugal.",
+  "tips" : "Try Alentejo’s bread, Black Iberian Pig and typical Açorda Alentejana.",
+	"geometry": { "type": "point", "coordinates": [38.01, -7.86] }
+},
+{
+  "name" : "Lisboa",
+  "city" : "Lisboa",
+  "description" : "no words - you're gonna love it!",
+  "tips" : "listen to Fado, have amazing dinners in typical restaurants and walk on top of beautifully designed sidewalks (Calçada Portuguesa)",
+	"geometry": { "type": "point", "coordinates": [38.7, -9.13] }
+},
+{
+  "name" : "Sintra",
+  "city" : "Sintra",
+  "description" : "no words - you're gonna love it!",
+  "tips" : "Sintra is known for being the most mystical place in the country, with odd myths and tales that live throughout generations.",
+	"geometry": { "type": "point", "coordinates": [38.79, -9.38] }
+},
+{
+  "name" : "Mafra & Ericeira",
+  "city" : "Mafra & Ericeira",
+  "description" : "here you'll find great breads!",
+  "tips" : "You should try 'Pão de Mafra'.",
+	"geometry": { "type": "point", "coordinates": [38.93, -9.32] }
+}
