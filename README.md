@@ -1,6 +1,3 @@
-# indie-campers-challenge
-App that, given a latitude and longitude, return great highlights (or attractions) close to your location.
-
 # Highlights REST API - Description
 An API developed to output the closest highlights(or attractions) in a radius of 100km, according to user location(latitude & longitude).
 
@@ -16,11 +13,11 @@ yarn install or npm install
 ```
 
 ## Running
-Backend: Run the following commands inside the folder server. (Server runs on port 3000)
+Backend: Run the following commands inside the server folder. (Server runs on port 3000)
 ```
 yarn dev or npm run dev
 ```
-Frontend: Run the following commands inside the folder client. (App runs on port 8080)
+Frontend: Run the following commands inside the client folder. (App runs on port 8080)
 ```
 yarn serve or npm run serve
 ```
